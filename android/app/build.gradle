@@ -141,7 +141,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.shopping"
+        applicationId "com.reactnative_test"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

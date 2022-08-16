@@ -1,6 +1,7 @@
-package com.shopping;
+package com.reactnative_test;
 
 import com.facebook.react.ReactActivity;
+import android.os.Bundle;
 
 public class MainActivity extends ReactActivity {
 
